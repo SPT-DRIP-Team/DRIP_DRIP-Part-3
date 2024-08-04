@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "MIL-TEC boonie hat (BF4 \"Chinese Splinter\")",
+	"type": "RETEXTURE",
+    "shortName": "Boonie",
+    "description": "MIL-TEC-produced boonie hat, which can be used for protection from the sun. Or you can operate wearing it like a true SEAL Team Six operator. Battlefield 4 \"Chinese Splinter\" version.",
+
+    "baseItemID": "5b4327aa5acfc400175496e0",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

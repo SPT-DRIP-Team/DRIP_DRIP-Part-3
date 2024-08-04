@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Door Kicker Boonie hat (BF4 \"Chinese Splinter\")",
+	"type": "RETEXTURE",
+    "shortName": "Door Kicker",
+    "description": "A well-worn \"PriceLess\" boonie hat. It is believed that those who wear it can open any door in this world. Battlefield 4 \"Chinese Splinter\" version.",
+
+    "baseItemID": "5d96141523f0ea1b7f2aacab",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "USD",
+        "amount": 130,
+    },
+}

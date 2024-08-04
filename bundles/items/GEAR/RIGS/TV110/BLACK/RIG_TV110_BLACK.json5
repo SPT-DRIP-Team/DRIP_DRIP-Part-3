@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "WARTECH TV-110 plate carrier (Black)",
+	"type": "RETEXTURE",
+    "shortName": "TV-110",
+    "description": "A plate carrier with armor plates made of armored steel (Russian GOST class 4 protection) with chest and back protection only, equipped with a set of pouches. Manufactured by WARTECH. Black version.",
+
+    "baseItemID": "5c0e746986f7741453628fe5",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fa0fb498d1b7e3e071d9c",
+        "Back_plate": "656fa0fb498d1b7e3e071d9c",
+		"Soft_armor_front": "6570df294cc0d2ab1e05ed74",
+        "Soft_armor_back": "6570df9c615f54368b04fca9"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

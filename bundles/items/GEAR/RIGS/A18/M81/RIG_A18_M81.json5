@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Ars Arma A18 Skanda plate carrier (M81 Woodland)",
+	"type": "RETEXTURE",
+    "shortName": "A18",
+    "description": "A plate carrier with armor plates (Russian GOST class 4 protection) with chest and back protection. Equipped with a set of pouches. Manufactured by Ars Arma. M81 Woodland version.",
+
+    "baseItemID": "5d5d87f786f77427997cfaef",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

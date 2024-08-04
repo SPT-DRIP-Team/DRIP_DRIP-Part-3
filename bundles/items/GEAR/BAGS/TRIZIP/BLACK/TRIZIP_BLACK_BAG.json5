@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Camelbak Tri-Zip assault backpack (Black)",
+	"type": "RETEXTURE",
+    "shortName": "Tri-Zip",
+    "description": "A Mid-sized versatile assault pack. Spacious, sturdy and comfortable, this backpack is loved both by military and hikers worldwide. 34L of total space, a hydration system, easy access to side pockets, near-perfect suspension, and a MOLLE attachment system make it a great choice for up to 72 hours of autonomous hiking... or carrying a good load of loot. Black version.",
+
+    "baseItemID": "545cdae64bdc2d39198b4568",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

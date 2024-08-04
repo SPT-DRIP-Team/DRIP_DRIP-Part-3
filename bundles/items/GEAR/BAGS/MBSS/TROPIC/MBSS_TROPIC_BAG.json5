@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Flyye MBSS Backpack (Tropic Green)",
+	"type": "RETEXTURE",
+    "shortName": "MBSS",
+    "description": "An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides. Tropic Green version.",
+
+    "baseItemID": "544a5cde4bdc2d39388b456b",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

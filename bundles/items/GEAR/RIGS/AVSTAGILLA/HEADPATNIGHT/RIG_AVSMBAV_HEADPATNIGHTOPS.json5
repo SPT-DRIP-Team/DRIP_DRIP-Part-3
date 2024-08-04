@@ -1,0 +1,31 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Crye Precision AVS MBAV plate carrier (HeadPAT Night Ops Edition)",
+	"type": "RETEXTURE",
+    "shortName": "AVS MBAV",
+    "description": "Somebody's well-worn plate carrier based on the AVS module system by Crye Precision. It has one front panel with three attached pouches. And that's pretty much it. Nothing more, nothing less. HeadPAT Night Ops edition.",
+
+    "baseItemID": "609e860ebd219504d8507525",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fa99800d62bcd2e024088",
+        "Back_plate": "656fa99800d62bcd2e024088",
+		"Soft_armor_front": "6575f5cbf6a13a7b7100b0bf",
+        "Soft_armor_back": "6575f5e1da698a4e98067869"
+    },
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+	
+	"loyaltyLevel": 4,
+    "price": {
+        "currency": "RUB",
+        "amount": 243844,
+    },
+}

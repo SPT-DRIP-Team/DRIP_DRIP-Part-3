@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "ANA Tactical Beta 2 Battle backpack (Phantomleaf WASP.II.Z3A)",
+	"type": "RETEXTURE",
+    "shortName": "Beta 2",
+    "description": "A lightweight and capacious backpack from ANA Tactical, in Phantomleaf WASP.II.Z3A. Specially designed for use in dynamic conditions and on rough terrain.",
+
+    "baseItemID": "5b44c6ae86f7742d1627baea",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

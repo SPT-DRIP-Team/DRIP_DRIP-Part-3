@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Mystery Ranch NICE COMM 3 BVS frame system (Grey)",
+	"type": "RETEXTURE",
+    "shortName": "COMM 3",
+    "description": "The NICE Frame special system for carrying oversized or heavy loads with an installed COMM 3 backpack for carrying radio systems. \nThe COMM 3 main bay is designed for PRC117F or G, PRC119F, 152, or ASIP radios. The Hitchhiker and Daypack lid allows you to carry separate gear if needed. The modular NICE COMM 3 system is ready to adapt to changing tasks. An extremely rare thing, for which a real hunt is conducted in Tarkov. Grey version.",
+
+    "baseItemID": "628bc7fb408e2b2e9c0801b1",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "RUB",
+        "amount": 217999,
+    },
+}

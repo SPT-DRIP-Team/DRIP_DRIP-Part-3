@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Light Military Flak Vest (Terragroup)",
+	"type": "RETEXTURE",
+    "shortName": "Flak Vest",
+    "description": "Class 3 body armor, commonly referred to as a Flak Vest. Used by militaries, PMCs, and reporters around the world. Terragroup Security version.",
+
+    "baseItemID": "5ab8e4ed86f7742d8e50c7fa",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+		"Soft_armor_front": "657044e971369562b300ce9b",
+        "Soft_armor_back": "657045741bd9beedc40b7299",
+        "Soft_armor_left": "657045b97e80617cee095bda",
+        "soft_armor_right": "6570460471369562b300ce9f"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

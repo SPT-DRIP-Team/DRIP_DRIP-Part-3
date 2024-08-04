@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Army Cap (Bulgarian Splinter)",
+	"type": "RETEXTURE",
+    "shortName": "Army Cap",
+    "description": "A regular army cap, in Bulgarian Splinter camo.",
+
+    "baseItemID": "603618feffd42c541047f771",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "EUR",
+        "amount": 100,
+    },
+}

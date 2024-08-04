@@ -1,0 +1,21 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "6B23-1 body armor (Partizan)",
+	"type": "RETEXTURE",
+    "shortName": "6B23-1",
+    "description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Partizan version.",
+
+    "baseItemID": "5c0e5bab86f77461f55ed1f3",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+		"assets/content/characters/character/vest/ar_6b23_mesh",
+		"assets/commonassets/physics/physicsmaterials.bundle",
+		"shaders",
+		"cubemaps",
+		"assets/content/items/equipment/armor_6b23/item_equipment_armor_6b23_gloss_nrm"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

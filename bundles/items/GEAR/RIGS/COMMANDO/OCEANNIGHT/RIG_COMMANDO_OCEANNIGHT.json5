@@ -1,0 +1,21 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "BlackHawk! Commando chest harness (Ukrainian Police Kamysh)",
+	"type": "RETEXTURE",
+    "shortName": "Commando",
+    "description": "Designed for comfort and quick access, this harness puts a lot of additional magazines at the user's fingertips. Manufactured by BLACKHAWK. Ukrainian Police Kamysh version.",
+
+    "baseItemID": "5b44c8ea86f7742d1627baf1",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+		"assets/commonassets/physics/physicsmaterials.bundle",
+		"shaders",
+		"assets/content/characters/character/tacticalvest/cr_commando_mesh",
+		"cubemaps",
+		"assets/content/items/equipment/rig_commando/item_equipment_rig_commando_textures"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
